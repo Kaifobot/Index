@@ -1,1 +1,7 @@
-style
+div {
+    padding: 20px;
+    background-color: blanchedalmond;
+    border: 1px solid #B7D4FF;
+    font-size: 30px;
+    color: #B7D4FF;
+}
